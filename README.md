@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 Read my <a href="https://thesurajblog.medium.com/" target="_blank" rel="noopener noreferrer">Medium!</a>   blogs or my personal blog on  <a href="http://surajghimire.com/
 /" target="_blank" rel="noopener noreferrer">surajghimire.com!</a>
 
-<p>Check out <a href="https://www.freecodecamp.org/" target="_blank" rel="noopener noreferrer">freeCodeCamp</a>.</p>
