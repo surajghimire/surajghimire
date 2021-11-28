@@ -10,13 +10,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on blogging and vlogging. 
 - 🤔 I’m looking for help with finding job. 
 - 💬 Ask me about Python, SQL, Data Science, blogging, social media content.  If you want to grow as a technical writer on Medium, I will coach you about the platform.
-- 📫 How to reach me: 
+- 📫 How to reach me? :  Oh yeah, I quickly reply to your messages on - <a href="https://linkedin.com/in/surajghimire03">Linkedin!</a> 
 - https://linkedin.com/in/surajghimire03
 
-Read my Medium blogs on 
-https://thesurajblog.medium.com/
-
-Also, my personal blog on 
-http://surajghimire.com/
-
+Read my <a href="https://thesurajblog.medium.com/">Medium!</a>   blogs or my personal blog on  <a href="http://surajghimire.com/
+/">surajghimire.com!</a>
 
