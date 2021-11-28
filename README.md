@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Big Data, AWS. Yes, learning new and cool tricks of Python and SQL too.  
 - 👯 I’m looking to collaborate on blogging and vlogging. 
 - 🤔 I’m looking for help with finding job. 
-- 💬 Ask me about blogging, social media content
+- 💬 Ask me about Python, SQL, Data Science, blogging, social media content.  If you want to grow as a technical writer on Medium, I will coach you about the platform.
 - 📫 How to reach me: 
 - https://linkedin.com/in/surajghimire03
 
