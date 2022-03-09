@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently searching for a  full time entry level Data Scientist job in Europe
-- 🌱 I’m currently learning Big Data, AWS. Yes, learning new and cool tricks of Python and SQL too.  
+- 🔭 I’m currently searching for a  full time Junior Data Scientist position within Europe
+- 🌱 I’m currently learning Big Data, AWS. Yes, I am sharpening my skills on Python and SQL too, one at a time.  
 - 👯 I’m looking to collaborate on blogging and vlogging. 
 - 🤔 I’m looking for help with finding job. 
 - 💬 Ask me about Python, SQL, Data Science, blogging, social media content.  If you want to grow as a technical writer on Medium, I will coach you about the platform.
